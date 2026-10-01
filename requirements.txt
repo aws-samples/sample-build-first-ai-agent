@@ -1,0 +1,5 @@
+# Build Your First AI Agent (GHC 2026)
+# Strands Agents SDK + AWS SDK. Pinned to the versions verified for this workshop.
+strands-agents>=1.57,<2
+boto3>=1.35
+requests>=2.32
